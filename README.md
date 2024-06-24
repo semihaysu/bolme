@@ -1,0 +1,2 @@
+# bolme
+eşit parçalara bölme
